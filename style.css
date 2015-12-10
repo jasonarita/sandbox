@@ -1,0 +1,21 @@
+        body {background-color:grey;}
+        h1   {color:gray; text-align:center}
+        p    {color:green;}
+        
+        
+        .prettycircle{
+          fill:         darkblue;
+          stroke:       white;
+          opacity:      0.75;
+          stroke-width: 0.88;
+        }
+        
+        .darkblue{
+          fill:    darkblue;
+          stroke:  white;
+          opacity: 1.47;
+          height:  200;
+          width:   200;          
+          stroke-width: 4;
+        }
+        
